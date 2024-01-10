@@ -1,30 +1,42 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 10, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Still working on getting front end of Galaxy Gaze 2.0 built out (started ~1 week ago).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Using GG2.0 as an opportunity to increase my Bootstrap skills and reinforce React.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: [Galaxy Gaze 2.0 - front end](https://github.com/elliotvhill/galaxy-2.0-fe)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+<!-- ### Day X: mmmm DD, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
+### Day X: mmmm DD, 2024
 
-### Day 1: June 27, Monday
+**Today's Progress**: 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day X: mmmm DD, 2024
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day X: mmmm DD, 2024
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+ -->
